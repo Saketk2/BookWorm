@@ -1,4 +1,6 @@
-# BookWorm
-![image](https://github.com/vihaaaaan/BookWorm/assets/68718023/7a02c10b-8ec7-47ff-b6de-1e7d46815b46)
+# BookWorm - HackAI 2024, 2nd Place
 
-HackAI 2024 Project
+Generative AI web application for educators to adapt news articles to student reading levels & generate quizzes guaging comprehension. 
+
+Built using Django, Tailwind CSS, and Postgres. Web scraping done via Beautiful Soup and article translations via GPT-3.5 API
+
